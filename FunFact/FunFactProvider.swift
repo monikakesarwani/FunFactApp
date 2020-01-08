@@ -1,14 +1,6 @@
  
 
 import Foundation
-//
-//  FunFact.swift
-//  FunFact
-//
-//  Created by Anil on 12/13/18.
-//  Copyright © 2018 teamtreehouse. All rights reserved.
-//
-
 import GameKit
 
 struct FactProvider {
@@ -33,3 +25,4 @@ struct FactProvider {
         
     }
 }
+//to test

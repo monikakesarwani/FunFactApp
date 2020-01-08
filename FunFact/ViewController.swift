@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  FunFact
-//
-//  Created by Anil on 12/7/18.
-//  Copyright © 2018 teamtreehouse. All rights reserved.
-//
+
 
 import UIKit
 
